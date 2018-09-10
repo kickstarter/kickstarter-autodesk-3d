@@ -1,6 +1,6 @@
 ## FDM Assessment Protocol
 
-Print the test geometry using ESUN PLA+ Cool White filament, available in both [1.75mm](https://www.amazon.com/gp/product/B01EKEMFQS) and [2.85mm](https://www.amazon.com/dp/B01EKFV60S/) sizes using “standard” settings (i.e. all default settings).  It is very important to use the same material, as rheological and thermal properties of materials can vary dramatically between manufacturers, effectively invalidating any results obtained without controlling material properties.
+Download the latest test geometry from the FDM-protocol folder and print the geometry using ESUN PLA+ Cool White filament, available in both [1.75mm](https://www.amazon.com/gp/product/B01EKEMFQS) and [2.85mm](https://www.amazon.com/dp/B01EKFV60S/) sizes using “standard” settings (i.e. all default settings).  It is very important to use the same material, as rheological and thermal properties of materials can vary dramatically between manufacturers, effectively invalidating any results obtained without controlling material properties.
 
 What this geometry does test:
 
