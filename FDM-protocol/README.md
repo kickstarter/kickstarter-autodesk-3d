@@ -40,8 +40,8 @@ This geometry can be used both to characterize and compare different 3D printers
 10|10.01|9.85|0.01|-0.15
 5|4.84|4.84|-0.16|-0.16
 Avg Err:|-0.082|-0.21| |
-Average of avg. X and Y error|-0.146| | |
-Difference between avg. X and Y error|0.128| | |
+ **Average of avg. X and avg. Y error** | **-0.146** | | |
+Difference between avg. X and avg. Y error|0.128| | |
 
 * Record a “1” if the magnitude of the overall average error is greater than 0.40mm.
 * Record a “2” if the magnitude of the overall average error is between 0.31 and 0.40mm.
@@ -111,4 +111,4 @@ If rippling in the X or Y axis can be observed at or past three hash marks, reco
 If a layer registration effect with a period equal to that of the leadscrew is visible on the pillar supporting the fine positive features test, record “0,” otherwise, record “2.5.”
 
 ## Scoring
-Sum the results of each section of the test protocol.  The highest possible score is 30, indicating a very well-calibrated system. For reference, a Prusa i3 scores 22.5 and a Makerbot Replicator 2 scores 18.
+Sum the results of each section of the test protocol.  The highest possible score is 30, indicating a very well-calibrated system. For reference, a Prusa i3 MK3 scores 22.5 and a Makerbot Replicator 2 scores 18.
