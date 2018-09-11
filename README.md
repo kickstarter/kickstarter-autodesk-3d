@@ -2,7 +2,7 @@
 # Using the Autodesk x Kickstarter FDM 3D Printer Assessment
 ![](./img/img.001.png)
 ## Background and Rationale
-Autodesk and Kickstarter have developed a common standard that enables people to assess the performance of FDM 3D printers. (You can read more about why we undertook this initiative here.) The features composing this geometry are largely based off the collaboration between Andreas Bastian and Make Magazine to develop Make Magazine’s early 3D printer shootout benchmarking protocol.
+Autodesk and Kickstarter have developed a common standard that enables people to assess the performance of FDM 3D printers. (You can read more about why we undertook this initiative (here)[https://www.kickstarter.com/blog/2221].) The features composing this geometry are largely based off the collaboration between Andreas Bastian and Make Magazine to develop Make Magazine’s early 3D printer shootout benchmarking protocol.
 
 The geometry we’ve developed tests how well a printer’s hardware and software are calibrated to a given material by stressing the system to the point of failure.  The failures lead to the creation of witness features that can be used to assess the performance of the slicer, the extruder, and the motion system.  While this geometry and protocol can reveal many different types of problems in a system, fixing the exposed problems is out of scope for this basic assessment protocol.
 
