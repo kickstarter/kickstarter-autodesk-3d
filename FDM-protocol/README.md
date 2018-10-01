@@ -28,19 +28,19 @@ This geometry can be used both to characterize and compare different 3D printers
 
 ![](../img/img.002.png)
 
-*To assess dimensional accuracy, measure each tier of the dimensional accuracy stack and record in a table like so:*
+*To assess dimensional accuracy, measure each tier of the dimensional accuracy stack and record the absolute different between the target and the measured dimensions in a table like so:*
 
 
 
 **Target**|**Measured X**|**Measured Y**|**X Error**|**Y Error**
 :-----:|:-----:|:-----:|:-----:|:-----:
-25|24.82|24.69|-0.18|-0.31
-20|19.93|19.75|-0.07|-0.25
-15|14.99|14.82|-0.01|-0.18
-10|10.01|9.85|0.01|-0.15
-5|4.84|4.84|-0.16|-0.16
-Avg Err:|-0.082|-0.21| |
- **Average of avg. X and avg. Y error** | **-0.146** | | |
+25|24.82|24.69|0.18|0.31
+20|19.93|19.75|0.07|0.25
+15|14.99|14.82|0.01|0.18
+10|10.01|9.85|0.01|0.15
+5|4.84|4.84|0.16|0.16
+Avg Err:|0.082|0.21| |
+ **Average of avg. X and avg. Y error** | **0.146** | | |
 Difference between avg. X and avg. Y error|0.128| | |
 
 * Record a “1” if the magnitude of the overall average error is greater than 0.40mm.
