@@ -65,7 +65,7 @@ While it is not explicitly scored in this evaluation, this test also reveals the
 
 ### 3. Fine Negative Features
 
-![](./img/img.008.png)
+![](../img/img.008.png)
 *Attempt to remove all the pins from their holes using fingers (no tools).  The example above would score 2.*
 
 * Record a “0” if no pins can be removed.
